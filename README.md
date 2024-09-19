@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning programming.
 - 🌱 I’m currently learning C/ C++
 - 📫 Reach me on ad9999122@gmail.com
-- ⚡Hobbies: Love to play tabla and congo
+- ⚡Hobbies: Love to play tabla and congo.
 
 
 <!---
